@@ -1,4 +1,4 @@
-# turing_workstation
+# turing_workstation_crontab
 The crontab is set up on the Turing workstation using the system crontab. This is important as it enables the setting of which user each cron job should be run from.
 ## Live Crontab Commands
 - Demultiplexing via Automated Scripts
